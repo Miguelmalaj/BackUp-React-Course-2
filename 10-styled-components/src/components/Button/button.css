@@ -1,0 +1,11 @@
+/* $color: royalblue; */
+
+.button{
+    background-color: royalblue; 
+    color: #fff;
+}
+ 
+.button:hover{
+    background-color: red;
+    color: royalblue;
+}
